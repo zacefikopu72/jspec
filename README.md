@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Fix xyxyxyxyn calculation, swap axis (#8249)
