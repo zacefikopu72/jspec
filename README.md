@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+* fix for predicting with batch_size > 1
