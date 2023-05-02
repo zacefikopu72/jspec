@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
