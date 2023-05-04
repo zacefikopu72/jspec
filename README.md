@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
