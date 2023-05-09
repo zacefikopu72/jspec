@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
