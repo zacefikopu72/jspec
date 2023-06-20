@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
