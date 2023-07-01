@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
