@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
