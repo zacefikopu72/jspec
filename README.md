@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
