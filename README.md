@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
