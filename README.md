@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
