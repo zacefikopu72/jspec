@@ -1,1 +1,1 @@
-Add Roboflow 100 Dataset Docs Page (#8065)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
