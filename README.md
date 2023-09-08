@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
