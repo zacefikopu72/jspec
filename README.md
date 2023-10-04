@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Optimize function calls to method calls (#8507)
