@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add CoreML Docs Integrations Page (#8063)
