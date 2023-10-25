@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
