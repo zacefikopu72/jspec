@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Reverse IoU threshold for NMS docs descriptions (#9151)
