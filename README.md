@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
