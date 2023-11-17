@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+example Google Colab
