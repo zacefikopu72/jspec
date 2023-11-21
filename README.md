@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
