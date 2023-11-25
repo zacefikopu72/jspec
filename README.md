@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Feature: Create HUB Models from CLI or Python Script (#7316)
