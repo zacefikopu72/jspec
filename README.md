@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update TFLite Docs images (#8605)
