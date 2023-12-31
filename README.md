@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
