@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add docs guide terminal images (#8819)
