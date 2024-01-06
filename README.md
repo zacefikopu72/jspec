@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+New test for labels and crops (#8861)
