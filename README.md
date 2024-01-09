@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
