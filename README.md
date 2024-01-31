@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
