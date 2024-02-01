@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fix bbox2segment converter (#7814)
