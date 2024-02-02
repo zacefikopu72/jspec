@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Update H1 in Explorer API docs (#7813)
