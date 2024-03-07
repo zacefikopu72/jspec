@@ -1,1 +1,1 @@
-example Google Colab
+Update HTTP to HTTPS (#7548)
