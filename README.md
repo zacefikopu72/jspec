@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
