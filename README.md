@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Update TFLite Docs images (#8605)
