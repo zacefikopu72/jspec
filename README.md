@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
