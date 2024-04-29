@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Feature: Create HUB Models from CLI or Python Script (#7316)
