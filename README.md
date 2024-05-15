@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Resize angle, count, and stage on keypoint number change (#7598)
