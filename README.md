@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+OBB: Fix when training on zip data (#8680)
