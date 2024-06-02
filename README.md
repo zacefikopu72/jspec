@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
