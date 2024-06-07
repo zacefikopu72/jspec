@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Fixed RTDETR GFLOPs bug (#7309)
