@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
