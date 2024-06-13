@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
