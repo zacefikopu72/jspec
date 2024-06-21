@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Python refactorings and simplifications (#7549)
