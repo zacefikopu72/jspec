@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
