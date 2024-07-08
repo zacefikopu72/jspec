@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+OpenVino 2024.0.0 (#8726)
