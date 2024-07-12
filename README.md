@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add docs guide terminal images (#8819)
