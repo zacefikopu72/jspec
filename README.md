@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Elaborate Train and Predict mode docs arguments (#8137)
