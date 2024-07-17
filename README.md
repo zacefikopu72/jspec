@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
