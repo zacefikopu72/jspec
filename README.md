@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update CI.md with CI links (#8786)
