@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
