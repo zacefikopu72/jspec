@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Move Explorer tests to scheduled CI (#8305)
