@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
