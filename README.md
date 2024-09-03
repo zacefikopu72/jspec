@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
