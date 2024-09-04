@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
