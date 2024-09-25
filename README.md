@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Add YOLOv8 LibTorch C++ inference example (#7090)
