@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+OpenVino 2024.0.0 (#8726)
