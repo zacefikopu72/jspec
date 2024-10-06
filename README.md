@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
