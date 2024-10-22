@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
